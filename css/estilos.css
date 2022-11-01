@@ -6,6 +6,7 @@
 
 body {
     font-family: 'open sans';
+    background: #010101e5;
 }
 
 .contenedor {
@@ -121,13 +122,14 @@ main .sobre-nosotros{
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
+    color: #fff;
 }
 
 /* Galeria */
 
 
 .portafolio{
-    background: #f2f2f2;
+    background: #292b2c;
 }
 
 .galeria-port{
@@ -218,7 +220,7 @@ main .sobre-nosotros{
 /*  Our team */
 
 .about-services{
-    background: #f2f2f2;
+    background:  #292b2c;;
     padding-bottom: 30px;
 }
 
@@ -232,6 +234,7 @@ main .sobre-nosotros{
 .servicio-ind{
     width: 28%;
     text-align: center;
+    color: #fff;
 }
 
 .servicio-ind img{
